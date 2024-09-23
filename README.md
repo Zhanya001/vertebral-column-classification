@@ -83,7 +83,7 @@ Los resultados obtenidos a partir de la búsqueda de hiperparámetros indican el
 UCI Machine Learning Repository
 
 LinkedIn
-Conéctate conmigo en Ariet Michal
+Conéctate conmigo en [Ariet Michal](https://www.linkedin.com/in/ariet-michal)
 
 
 
