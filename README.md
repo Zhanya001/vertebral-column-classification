@@ -82,7 +82,8 @@ Los resultados obtenidos a partir de la búsqueda de hiperparámetros indican el
 
 [UCI Machine Learning Repository - Vertebral Column Dataset](https://archive.ics.uci.edu/dataset/212/vertebral+column)
 
-LinkedIn
+## LinkedIn
+
 Conéctate conmigo en [Ariet Michal](https://www.linkedin.com/in/ariet-michal)
 
 
